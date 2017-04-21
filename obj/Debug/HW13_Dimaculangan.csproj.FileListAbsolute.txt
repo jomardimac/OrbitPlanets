@@ -1,0 +1,9 @@
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\bin\Debug\HW13_Dimaculangan.exe.config
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\bin\Debug\HW13_Dimaculangan.exe
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\bin\Debug\HW13_Dimaculangan.pdb
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.csprojResolveAssemblyReference.cache
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.Properties.Resources.resources
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.csproj.GenerateResource.Cache
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.exe
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.pdb
+C:\Users\Jomar\Documents\CptS321\HW13_Dimaculangan\obj\Debug\HW13_Dimaculangan.MainForm.resources
