@@ -89,7 +89,7 @@
             // 
             // timeRender
             // 
-            this.timeRender.Interval = 30;
+            this.timeRender.Interval = 60;
             this.timeRender.Tick += new System.EventHandler(this.timeRender_Tick);
             // 
             // MainForm
